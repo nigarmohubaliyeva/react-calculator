@@ -13,7 +13,7 @@
  
 
 ## About The Project
-<img src="public/images/application-image.png" alt="app-interface" width="400" />
+<img src="src/images/application-image.png" alt="app-interface" width="400" />
 This project is a calculator application developed with React in a way that allows users to calculate with four operations and has a simple interface.
 
  
